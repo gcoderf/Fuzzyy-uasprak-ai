@@ -1,7 +1,7 @@
 # Fuzzyy-uasprak-ai
-UAS Praktikum AI
-Nama : Gevano Randhi Pilko
-NIM : 20343011
-Prodi : Informatika
+<b>UAS Praktikum AI<b> <br>
+Nama : Gevano Randhi Pilko <br>
+NIM : 20343011 <br>
+Prodi : Informatika <br>
 
 Seksi : 202123430035
